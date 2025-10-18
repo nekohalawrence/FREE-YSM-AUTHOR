@@ -5,4 +5,4 @@
 | afdian   | https://afdian.com/a/Almeta        |
 | bilibili | https://space.bilibili.com/4328692 |
 
-## 资源源头
+## 资源链接
