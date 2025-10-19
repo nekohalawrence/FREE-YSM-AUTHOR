@@ -1,1 +1,11 @@
-bilibili: https://space.bilibili.com/168185637
+## 作者
+
+| 平台       | 作者名称           | 主页                                   |
+| -------- | -------------- | ------------------------------------ |
+| bilibili | White_clams 白蛤蜊 | https://space.bilibili.com/168185637 |
+
+## 资源链接
+
+| 模型名称 | 版本  | 链接                                                           |
+| ---- | --- | ------------------------------------------------------------ |
+| 白蛤蜊  | /   | 链接: https://pan.baidu.com/s/1ExWownQXh3rBRrfHGcjbOQ?pwd=vzeq |
