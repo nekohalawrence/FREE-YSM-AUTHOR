@@ -5,7 +5,3 @@
 | bilibili | 02Bunny | https://space.bilibili.com/11814817 |
 
 ## 资源链接
-
-| 模型名称 | 版本  | 链接  |
-| ---- | --- | --- |
-|      |     |     |
