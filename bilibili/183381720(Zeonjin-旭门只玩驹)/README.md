@@ -1,1 +1,9 @@
-bilibili: https://space.bilibili.com/183381720
+| 平台       | 作者名称  | 主页                                   |
+| -------- | ----- | ------------------------------------ |
+| bilibili | 旭门只玩驹 | https://space.bilibili.com/183381720 |
+
+## 资源链接
+
+| 模型名称   | 链接                                                                    |
+| ------ | --------------------------------------------------------------------- |
+| 赛马娘 _ 强击 | https://pan.baidu.com/share/init?surl=uDX_VbNYPcNx49gWPuJvxw&pwd=1234 |
