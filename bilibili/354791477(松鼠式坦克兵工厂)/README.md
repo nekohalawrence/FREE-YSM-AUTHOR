@@ -1,2 +1,11 @@
-https://space.bilibili.com/354791477
+## 作者
 
+| 平台       | 作者名称     | 主页                                   |
+| -------- | -------- | ------------------------------------ |
+| bilibili | 松鼠式坦克兵工厂 | https://space.bilibili.com/354791477 |
+| afdian   | 松鼠式坦克    | https://afdian.com/a/Gaimetear2333   |
+
+## 资源链接
+
+| 模型名称 | 链接  |
+| ---- | --- |

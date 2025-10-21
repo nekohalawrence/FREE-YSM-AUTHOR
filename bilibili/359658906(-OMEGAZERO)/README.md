@@ -1,1 +1,12 @@
-https://space.bilibili.com/359658906
+## 作者
+
+| 平台       | 作者名称        | 主页                                   |
+| -------- | ----------- | ------------------------------------ |
+| bilibili | -OMEGAZERO- | https://space.bilibili.com/359658906 |
+
+## 资源链接
+
+| 模型名称 | 版本  | 链接                                                  |
+| ---- | --- | --------------------------------------------------- |
+| 圣园未花 | 1.7 | https://www.123865.com/s/vpxETd-RsOk3?pwd=MIKA      |
+| 圣园未花 | 1.6 | https://www.123865.com/s/vpxETd-OfOk3?pwd=MIKA#MIKA |
